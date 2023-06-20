@@ -1,5 +1,8 @@
 # TestRepoStatR
-Test repo for statistics in R
+Test repo for statistics in R\
 
-Greetings from RStudio
-2nd line
+Greetings from RStudio\
+\
+### 2nd line
+
+# Head line
